@@ -2,8 +2,12 @@ signupone.java
 
 1. Error message / exception JOptionpane
 
+ok
+
 2.Lastname and first name 
 -cannot contain numbers or symbols
+
+ok
 
 3.date of birth 
 --cannot earlier than today's date. Only date format.
