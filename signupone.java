@@ -12,6 +12,8 @@ ok
 3.date of birth 
 --cannot earlier than today's date. Only date format.
 
+ok
+
 4.Gender 
 --cannot be blank
 
